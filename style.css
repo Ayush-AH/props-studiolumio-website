@@ -436,7 +436,10 @@ span{
     border: 1px solid #584931;
     margin: 0;
 }
-
+#page4 .btn .arrow{
+    background-color: #584931;
+    color: #fff;
+}
 #page5{
     position: relative;
     height: 120vh;
@@ -670,7 +673,7 @@ span{
 .btn .arrow{
     height: 25px;
     width: 25px;
-    font-size: 4.1vw;
+    font-size: 4.8vw;
 }
 #text2{
     width: 100%;
