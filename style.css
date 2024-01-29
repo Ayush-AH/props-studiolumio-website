@@ -658,6 +658,7 @@ span{
 }
 .btn{
     padding: 6px 8px;
+    margin-top: 2vw;
 }
 .btn h3{
     font-size: 2.5vw;
@@ -669,7 +670,7 @@ span{
 .btn .arrow{
     height: 25px;
     width: 25px;
-    font-size: 3.5vw;
+    font-size: 4.1vw;
 }
 #text2{
     width: 100%;
@@ -837,7 +838,7 @@ span{
     font-weight: 300;
 }
 #page8{
-    height: 40vh;
+    height: 60vh;
 }
 #page8 h1{
     font-size: 10vw;
@@ -848,7 +849,7 @@ span{
     width: 40vw;
 }
 #footer{
-    height: 50vh;
+    height: 45vh;
 }
 #footer .effect{
     height: 3.5vw;
